@@ -10,5 +10,5 @@ Tietojenkäsittelytieteen kandidaatti. English.
 Program will have UI that user can use by clicking buttons.
 
 ### Time complexity
-Backtracking time complexity for sudoku with 9 numbers: (9^(n*n))
+Backtracking time complexity for sudoku with 9 numbers: (9^(n\*n))
 space complexity: O(n*n)
