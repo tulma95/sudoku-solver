@@ -2,7 +2,9 @@
 Tietojenkäsittelytieteen kandidaatti. English.
 
 ### What algorithms and data structures?
-Sudoku backtracking algorithm and arrays. Maybe another one if I have time. 
+- Sudoku backtracking algorithm. Maybe another algorithm if I have time. 
+- Arrays
+- ArrayList
 
 ### What input
 Program will have UI that user can use by clicking buttons.
