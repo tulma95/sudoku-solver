@@ -1,4 +1,4 @@
-## week 2 4h + 
+## week 2 4h + 2h
 
 ### What have I done this week?
 - Made sudoku core functionality work
@@ -6,6 +6,7 @@
 - Backtracking algorithm works
 - Tests for algorithm
 - Generic arraylist implementation
+- Add github actions to build, run tests and upload code coverage to codecov
 
 ### How has the program progressed
 Very well. Got the game and algorithm work fairly quickly.
