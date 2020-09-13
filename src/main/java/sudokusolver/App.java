@@ -2,6 +2,8 @@ package sudokusolver;
 
 import sudokusolver.domain.backtrackingalgorithm.Algorithm;
 import sudokusolver.domain.gamelogic.Sudoku;
+import sudokusolver.ui.GraphUI;
+
 
 public class App {
     public static void main(String[] args) {
@@ -18,9 +20,8 @@ public class App {
         });
 
         Algorithm backtracking = new Algorithm();
-
-
         backtracking.solve(sudoku);
+        GraphUI.main(args);
 
     }
 
